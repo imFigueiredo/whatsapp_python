@@ -12,7 +12,8 @@ for linha in pagina_clientes.iter_rows(min_row=2):
     nome = linha[0].value
     telefone = linha[1].value
 
-    mensagem = f'Olá {nome}, tudo bem? sou um bot teste desenvolvido por Lucas Henrique'
+    #insira a menssagem que gostaria abaixo
+    mensagem = f'Olá {nome}, tudo bem? 
 
     link_mensagem_whatsapp = f'https://web.whatsapp.com/send?phone={telefone}&text={quote(mensagem)}'
     webbrowser.open(link_mensagem_whatsapp)
