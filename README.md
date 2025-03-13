@@ -10,11 +10,11 @@ Este bot foi criado para facilitar o envio de mensagens pelo WhatsApp, usando um
 
 Primeiro, é necessário instalar as bibliotecas usando o comando
 
--pip install pywhatkit pandas openpyxl
+**-pip install pywhatkit pandas openpyxl**
 
 Segundo, clone o repositório do Github com o comando
 
--git clone https://github.com/imFigueiredo/whatsapp_python.git
+**-git clone https://github.com/imFigueiredo/whatsapp_python.git**
 
 Terceiro, Altere a mensagem que será enviada
 
