@@ -16,7 +16,7 @@ Segundo, clone o repositório do Github com o comando
 
 -git clone https://github.com/imFigueiredo/whatsapp_python.git
 
-Terceiro, Altere a menssagem que será enviada
+Terceiro, Altere a mensagem que será enviada
 
 Quarto, edite o arquivo excel com o nome de "clientes.xlsx" e coloque os Nomes e os Números que a menssagem será enviada.
 
